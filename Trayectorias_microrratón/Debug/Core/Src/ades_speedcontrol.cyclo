@@ -1,0 +1,2 @@
+../Core/Src/ades_speedcontrol.c:10:6:ades_speedcontrol_configure	1
+../Core/Src/ades_speedcontrol.c:17:6:ades_speedcontrol_ajustarPWM	3

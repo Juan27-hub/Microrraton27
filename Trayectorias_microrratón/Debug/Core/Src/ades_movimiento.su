@@ -1,0 +1,2 @@
+../Core/Src/ades_movimiento.c:10:6:ades_movimiento_lineal	56	static
+../Core/Src/ades_movimiento.c:56:6:ades_movimiento_angular	56	static

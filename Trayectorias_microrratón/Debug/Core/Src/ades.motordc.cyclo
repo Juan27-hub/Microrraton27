@@ -1,0 +1,4 @@
+../Core/Src/ades.motordc.c:10:7:ades_motordc_getpwm	1
+../Core/Src/ades.motordc.c:17:7:ades_motordc_getpwm_angular	1
+../Core/Src/ades.motordc.c:25:6:ades_motordc_set_motorR	3
+../Core/Src/ades.motordc.c:39:6:ades_motordc_set_motorL	3

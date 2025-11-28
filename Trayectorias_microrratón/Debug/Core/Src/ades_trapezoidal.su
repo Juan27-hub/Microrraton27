@@ -1,0 +1,4 @@
+../Core/Src/ades_trapezoidal.c:10:7:ades_trapezoidal_GetDistanceAc	32	static
+../Core/Src/ades_trapezoidal.c:15:7:ades_trapezoidal_GetDistanceCte	24	static
+../Core/Src/ades_trapezoidal.c:21:7:ades_trapezoidal_GetAmplitudeAc	32	static
+../Core/Src/ades_trapezoidal.c:27:7:ades_trapezoidal_GetAmplitudeCte	24	static

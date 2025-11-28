@@ -1,0 +1,4 @@
+../Core/Src/ades_trapezoidal.c:10:7:ades_trapezoidal_GetDistanceAc	1
+../Core/Src/ades_trapezoidal.c:15:7:ades_trapezoidal_GetDistanceCte	1
+../Core/Src/ades_trapezoidal.c:21:7:ades_trapezoidal_GetAmplitudeAc	1
+../Core/Src/ades_trapezoidal.c:27:7:ades_trapezoidal_GetAmplitudeCte	1

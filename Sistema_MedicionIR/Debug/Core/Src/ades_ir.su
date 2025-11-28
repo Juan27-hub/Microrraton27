@@ -1,0 +1,11 @@
+../Core/Src/ades_ir.c:12:6:ades_ir_PowerDownAll	8	static
+../Core/Src/ades_ir.c:19:6:ades_ir_PowerDown	16	static
+../Core/Src/ades_ir.c:26:6:ades_ir_PowerUpAll	8	static
+../Core/Src/ades_ir.c:33:6:ades_ir_PowerUp	16	static
+../Core/Src/ades_ir.c:42:7:interpolacion1	192	static
+../Core/Src/ades_ir.c:54:7:interpolacion2	184	static
+../Core/Src/ades_ir.c:65:7:interpolacion3	120	static
+../Core/Src/ades_ir.c:76:7:interpolacion4	120	static
+../Core/Src/ades_ir.c:90:10:ades_ir_ReadADC	24	static
+../Core/Src/ades_ir.c:96:7:ades_ir_GetDistance	24	static
+../Core/Src/ades_ir.c:106:6:ades_ir_CalculateDistances	80	static

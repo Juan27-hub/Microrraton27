@@ -1,0 +1,2 @@
+../Core/Src/adc_custom.c:10:6:ADC_Init_Custom	2
+../Core/Src/adc_custom.c:33:10:ADC_SelectCH	2
